@@ -1,0 +1,26 @@
+{
+  "name": "challenge10-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyAshfield1/Challenge10-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyAshfield1/Challenge10-OOP/issues"
+  },
+  "homepage": "https://github.com/WesleyAshfield1/Challenge10-OOP#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
