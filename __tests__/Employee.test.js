@@ -1,4 +1,4 @@
-const Employee = require('../dist/sheet/lib/Employee');
+const Employee = require('../lib/Employee');
 
 test('does this create an new object with name, id, email', ()=> {
 const emp = new Employee('a', 'b', 'c')
